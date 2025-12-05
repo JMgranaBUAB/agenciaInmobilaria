@@ -1,0 +1,25 @@
+{
+    "tests" : [
+        {
+            "id" : 1,
+            "name" : "Sofia",
+            "surname" : "Lopez",
+            "age" : 29,
+            "phone" : 123456789
+        },
+        {
+            "id" : 2,
+            "name" : "Liam",
+            "surname" : "Johnson",
+            "age" : 34,
+            "phone" : 987654321
+        },
+        {
+            "id" : 3,
+            "name" : "Emma",
+            "surname" : "Williams",
+            "age" : 22,
+            "phone" : 456123789
+        }
+    ]
+}
